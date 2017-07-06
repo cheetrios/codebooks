@@ -1,2 +1,4 @@
 PIL
 pytesseract
+pytorch
+lmdb
